@@ -1,5 +1,5 @@
 # spacy_NER_chrome_extension_trail
-Unfinished development of a chrome extension perform NER on web pages
+Chrome extension used to highlight entities on webpages
 
 Folder: spacy_implement included implementation of pre-built Spacy NER models that supports NER, tokenization, etc.. and a model built from scratch that only supports NER. It was aimed at achieving the F-score of Spacy Models after employing the TB2 and Tweebank dataset, as suggested in this paper: https://arxiv.org/pdf/2201.07281.pdf
 
